@@ -659,7 +659,9 @@
             <div class="main-tab">
                 <div class="product-tabs box-content clearfix">
                     <div class="page-title toggled">
-                        <h2>TRENDING PRODUCTS</h2>
+                        <a href="https://alkhyalcurtain.ae/ourProduct">
+                            <h2> TRENDING PRODUCTS </h2>
+                        </a>
                         <h3 class="text-center">Best Sellers You Can't Miss</h3>
                         <p class="text-center">Discover what’s trending and find your next favorite item today.</p>
                     </div>
